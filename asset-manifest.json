@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/static/js/main.91104874.chunk.js",
-    "main.js.map": "/static/js/main.91104874.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.69d7854a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.69d7854a.js.map",
-    "static/js/2.800b1c54.chunk.js": "/static/js/2.800b1c54.chunk.js",
-    "static/js/2.800b1c54.chunk.js.map": "/static/js/2.800b1c54.chunk.js.map",
-    "static/js/3.40f4fb9d.chunk.js": "/static/js/3.40f4fb9d.chunk.js",
-    "static/js/3.40f4fb9d.chunk.js.map": "/static/js/3.40f4fb9d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.800b1c54.chunk.js.LICENSE.txt": "/static/js/2.800b1c54.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/css/main.e617e599.chunk.css",
+    "main.js": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/main.8ba70da4.chunk.js",
+    "main.js.map": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/main.8ba70da4.chunk.js.map",
+    "runtime-main.js": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/runtime-main.fd14dc21.js",
+    "runtime-main.js.map": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/runtime-main.fd14dc21.js.map",
+    "static/js/2.00534685.chunk.js": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/2.00534685.chunk.js",
+    "static/js/2.00534685.chunk.js.map": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/2.00534685.chunk.js.map",
+    "static/js/3.7eb9e59c.chunk.js": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/3.7eb9e59c.chunk.js",
+    "static/js/3.7eb9e59c.chunk.js.map": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/3.7eb9e59c.chunk.js.map",
+    "index.html": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/index.html",
+    "static/css/main.e617e599.chunk.css.map": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/css/main.e617e599.chunk.css.map",
+    "static/js/2.00534685.chunk.js.LICENSE.txt": "/https//lewis-rosenberg-smith.github.io/monsters-rolodex/static/js/2.00534685.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.69d7854a.js",
-    "static/js/2.800b1c54.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.91104874.chunk.js"
+    "static/js/runtime-main.fd14dc21.js",
+    "static/js/2.00534685.chunk.js",
+    "static/css/main.e617e599.chunk.css",
+    "static/js/main.8ba70da4.chunk.js"
   ]
 }
